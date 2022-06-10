@@ -1,10 +1,8 @@
-🛰 <h1>Mods tops 1</h1>
+<h1>🛰 Mods tops 1</h1>
 <p>Um modpack para konana gang</p>
-<br>
-<br>
-<br>
 <p>Uma mistura de modpacks, loucura, loucura, loucura</p>
-📦 Modpacks utilizados:
+<br>
+<h1>📦 Modpacks utilizados:</h1>
 <li>Better minecraft FABRIC 1.18.2</li>
 <li>??</li>
 

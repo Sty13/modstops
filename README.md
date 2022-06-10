@@ -7,25 +7,25 @@
 <li>??</li>
 
 <h1>📆 Mods planejados:</h1>
-https://modrinth.com/mod/basic-aiots
-https://modrinth.com/mod/lanterns-bow
-https://modrinth.com/mod/can-you-trash-it
-https://modrinth.com/mod/conveyor-belts
-https://modrinth.com/mod/botania
-https://modrinth.com/mod/lifts
-https://modrinth.com/mod/simple-pipes
-https://modrinth.com/mod/simple-cobblestone-generator
-https://modrinth.com/mod/ae2things
-https://modrinth.com/mod/wiredredstone
-https://modrinth.com/mod/chromatic-currents
-https://modrinth.com/mod/alloy-forgery
-https://modrinth.com/mod/bits-and-chisels
-https://modrinth.com/mod/ae2
-https://modrinth.com/mod/create-fabric
-https://modrinth.com/mod/alternate-current
-https://modrinth.com/mod/mining-helmet-mod
-https://modrinth.com/mod/polaroidcamera
-https://modrinth.com/mod/kibe
+https://modrinth.com/mod/basic-aiots <br>
+https://modrinth.com/mod/lanterns-bow <br>
+https://modrinth.com/mod/can-you-trash-it <br>
+https://modrinth.com/mod/conveyor-belts <br>
+https://modrinth.com/mod/botania <br>
+https://modrinth.com/mod/lifts <br>
+https://modrinth.com/mod/simple-pipes <br>
+https://modrinth.com/mod/simple-cobblestone-generator <br>
+https://modrinth.com/mod/ae2things <br>
+https://modrinth.com/mod/wiredredstone <br>
+https://modrinth.com/mod/chromatic-currents <br>
+https://modrinth.com/mod/alloy-forgery <br>
+https://modrinth.com/mod/bits-and-chisels <br>
+https://modrinth.com/mod/ae2 <br>
+https://modrinth.com/mod/create-fabric <br>
+https://modrinth.com/mod/alternate-current <br>
+https://modrinth.com/mod/mining-helmet-mod <br>
+https://modrinth.com/mod/polaroidcamera <br>
+https://modrinth.com/mod/kibe <br>
 https://www.curseforge.com/minecraft/mc-mods/industrial-revolution
 
 <h1>(all the mods 5) ---- Escolhendo</h1>
